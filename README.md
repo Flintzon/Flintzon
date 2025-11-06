@@ -1,5 +1,5 @@
 # 💫 About Me:
-SAn individual specializing in cybersecurity and technological disciplines.
+An individual specializing in cybersecurity and technological disciplines.
 
 
 ## 🌐 Socials:
