@@ -1,5 +1,5 @@
 # 💫 About Me:
-An individual specializing in cybersecurity and technological disciplines.
+Cybersecurity student focused on Security Operations Center (SOC).
 
 
 ## 🌐 Socials:
